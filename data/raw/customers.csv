@@ -1,0 +1,101 @@
+customer_id,company_name,industry,segment,country,registration_date,annual_turnover
+C0001,Alfa Logistics Sp z o.o.,Transport,SME,PL,2018-04-11,4800000
+C0002,Nova Trade Sp z o.o.,Wholesale,SME,PL,2020-02-18,2100000
+C0003,Green Energy S.A.,Energy,Corporate,PL,2016-09-01,24500000
+C0004,Road Cargo Solutions,Transport,SME,PL,2021-01-10,3200000
+C0005,MediSupply Polska S.A.,Healthcare,Corporate,PL,2015-07-23,31500000
+C0006,Baltic Food Group,FMCG,Corporate,PL,2017-06-12,18700000
+C0007,SteelWorks Polska,Manufacturing,Corporate,PL,2014-11-05,56200000
+C0008,QuickRetail Sp z o.o.,Retail,SME,PL,2022-03-15,1200000
+C0009,BuildPro Construction,Construction,SME,PL,2019-08-21,6800000
+C0010,TechParts Europe,Manufacturing,SME,CZ,2020-10-02,4300000
+C0011,FreshMarket Sp z o.o.,FMCG,SME,PL,2021-05-18,2500000
+C0012,AutoSupply Group,Wholesale,Corporate,PL,2013-04-17,71000000
+C0013,Medico Plus,Healthcare,SME,PL,2022-01-09,1900000
+C0014,TransBaltic Logistics,Transport,Corporate,PL,2012-09-30,82000000
+C0015,BuildMaster Sp z o.o.,Construction,SME,PL,2018-12-14,5400000
+C0016,Energy Solutions EU,Energy,Corporate,DE,2015-02-20,67000000
+C0017,Industrial Components,Manufacturing,SME,PL,2020-07-11,3900000
+C0018,Daily Retail Group,Retail,Corporate,PL,2016-03-08,22400000
+C0019,FoodLine Sp z o.o.,FMCG,SME,PL,2019-06-25,2700000
+C0020,Central Wholesale,Wholesale,Corporate,PL,2011-10-19,93000000
+C0021,North Transport,Transport,SME,PL,2021-09-01,3600000
+C0022,HealthCare Solutions,Healthcare,Corporate,PL,2014-05-12,44800000
+C0023,MetalForm,Manufacturing,SME,PL,2018-02-27,6100000
+C0024,GreenPower Systems,Energy,SME,PL,2020-12-04,5200000
+C0025,Urban Build,Construction,Corporate,PL,2013-08-16,38600000
+C0026,MarketZone,Retail,SME,PL,2022-04-20,900000
+C0027,Euro Components,Wholesale,SME,PL,2019-11-30,4700000
+C0028,LogiFast,Transport,SME,PL,2021-02-14,2900000
+C0029,ProFactory,Manufacturing,Corporate,PL,2015-01-22,61000000
+C0030,Premium Foods,FMCG,Corporate,PL,2016-07-19,27500000
+C0031,Vision Medical,Healthcare,SME,PL,2020-05-06,3400000
+C0032,PowerGrid Services,Energy,Corporate,DE,2012-12-12,88000000
+C0033,Construction Hub,Construction,SME,PL,2018-09-09,7200000
+C0034,Retail Express,Retail,SME,PL,2021-11-18,1500000
+C0035,Supply Chain Partners,Wholesale,Corporate,PL,2014-03-03,52000000
+C0036,East Logistics,Transport,SME,PL,2020-06-21,3100000
+C0037,Advanced Metals,Manufacturing,Corporate,CZ,2011-07-07,76000000
+C0038,Organic Food,FMCG,SME,PL,2022-02-15,1800000
+C0039,Medical Devices EU,Healthcare,Corporate,PL,2013-05-29,63000000
+C0040,Renew Energy Polska,Energy,SME,PL,2019-10-10,5600000
+C0041,BuildVision,Construction,Corporate,PL,2015-06-13,41000000
+C0042,City Retail,Retail,SME,PL,2020-03-23,2200000
+C0043,Global Trade Hub,Wholesale,Corporate,PL,2010-09-18,97000000
+C0044,FastMove Logistics,Transport,SME,PL,2021-07-01,2800000
+C0045,Precision Factory,Manufacturing,SME,PL,2018-05-14,4600000
+C0046,HealthPoint,Healthcare,SME,PL,2019-01-31,2700000
+C0047,Energy Future,Energy,Corporate,PL,2016-11-11,54000000
+C0048,Construction Plus,Construction,SME,PL,2022-06-05,3800000
+C0049,Food Distribution,FMCG,Corporate,PL,2013-02-14,69000000
+C0050,Retail Network,Retail,Corporate,PL,2017-09-22,23500000
+C0051,Logistic Partner,Transport,SME,PL,2020-01-05,3500000
+C0052,Industrial Tech,Manufacturing,Corporate,PL,2014-08-28,59000000
+C0053,Wholesale Market,Wholesale,SME,PL,2021-04-12,2600000
+C0054,Medical Care,Healthcare,Corporate,PL,2015-10-30,47000000
+C0055,Solar Solutions,Energy,SME,PL,2019-12-17,6100000
+C0056,Build Expert,Construction,SME,PL,2020-08-09,4400000
+C0057,Fresh Supply,FMCG,SME,PL,2022-01-20,1700000
+C0058,Trade Alliance,Wholesale,Corporate,PL,2012-06-26,86000000
+C0059,Transport One,Transport,Corporate,PL,2016-04-04,34000000
+C0060,Factory Systems,Manufacturing,SME,PL,2018-07-07,5200000
+C0061,Health Group,Healthcare,Corporate,DE,2011-11-19,91000000
+C0062,Green Industry,Energy,SME,PL,2021-03-02,3900000
+C0063,Build Solutions,Construction,Corporate,PL,2014-12-01,72000000
+C0064,Local Retail,Retail,SME,PL,2020-09-15,1300000
+C0065,Food Partners,FMCG,Corporate,PL,2015-05-05,58000000
+C0066,Logistics Pro,Transport,SME,PL,2019-04-18,4100000
+C0067,Component World,Manufacturing,Corporate,CZ,2013-10-22,65000000
+C0068,Medical Market,Healthcare,SME,PL,2022-05-13,2200000
+C0069,Power Systems,Energy,Corporate,PL,2016-08-30,78000000
+C0070,Construction Group,Construction,SME,PL,2018-11-25,5900000
+C0071,Retail Point,Retail,SME,PL,2021-12-01,1100000
+C0072,Wholesale Europe,Wholesale,Corporate,PL,2012-02-11,89000000
+C0073,Food Factory,FMCG,SME,PL,2019-03-07,3300000
+C0074,Transport Services,Transport,Corporate,PL,2015-09-09,46000000
+C0075,Metal Solutions,Manufacturing,SME,PL,2020-04-04,5700000
+C0076,Clinic Network,Healthcare,Corporate,PL,2013-07-16,52000000
+C0077,Energy Works,Energy,SME,PL,2021-08-19,4500000
+C0078,Urban Construction,Construction,Corporate,PL,2014-04-23,68000000
+C0079,Retail Partners,Retail,SME,PL,2022-02-01,1600000
+C0080,Food Wholesale,FMCG,Corporate,PL,2016-06-06,74000000
+C0081,Logistics Central,Transport,SME,PL,2018-10-10,3700000
+C0082,Industrial Group,Manufacturing,Corporate,PL,2011-05-14,95000000
+C0083,Health Systems,Healthcare,SME,PL,2020-11-11,3100000
+C0084,Renewable Energy,Energy,Corporate,PL,2015-03-25,61000000
+C0085,Construction Works,Construction,SME,PL,2019-07-17,6300000
+C0086,Market Retail,Retail,SME,PL,2021-10-05,1400000
+C0087,Trade Company,Wholesale,Corporate,PL,2013-01-13,84000000
+C0088,FMCG Partners,FMCG,SME,PL,2020-02-29,2900000
+C0089,Cargo Express,Transport,Corporate,PL,2014-06-21,57000000
+C0090,Factory Line,Manufacturing,SME,PL,2018-03-12,5100000
+C0091,Medical Solutions,Healthcare,Corporate,PL,2016-12-02,49000000
+C0092,Green Future,Energy,SME,PL,2022-03-03,3700000
+C0093,Build Company,Construction,Corporate,PL,2012-08-08,77000000
+C0094,Retail Solutions,Retail,SME,PL,2020-10-14,2000000
+C0095,Wholesale Group,Wholesale,Corporate,PL,2011-04-30,96000000
+C0096,Food Logistics,FMCG,SME,PL,2019-05-23,3400000
+C0097,Transport EU,Transport,Corporate,CZ,2015-11-11,43000000
+C0098,Manufacturing Pro,Manufacturing,SME,PL,2021-01-27,6200000
+C0099,Healthcare Plus,Healthcare,Corporate,PL,2014-09-19,56000000
+C0100,Energy Partner,Energy,SME,PL,2022-07-12,4100000
