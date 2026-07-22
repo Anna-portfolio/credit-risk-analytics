@@ -1,3 +1,13 @@
+"""
+NOTE:
+This project uses CSV files as the data source to keep the repository
+self-contained and easy to run without access to a production database.
+
+This module represents the production-ready database connection layer.
+In a real-world environment, data would be loaded directly from SQL Server
+via SQLAlchemy instead of pre-exported CSV files.
+"""
+
 import os
 from dotenv import load_dotenv
 from sqlalchemy import create_engine
