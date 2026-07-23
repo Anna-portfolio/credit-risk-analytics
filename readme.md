@@ -8,7 +8,7 @@ This project demonstrates an end-to-end analytics pipeline for preparing credit 
 The objective is to simulate a realistic portfolio of customers, invoices and repayments, perform data quality validation, engineer predictive features and train a machine learning model for customer risk classification.
 
 > **Note:**  
-> This repository uses a small synthetic dataset (3 files * 100 records each) created for demonstration purposes. The generated risk labels are based on engineered payment behaviour features and are intended to illustrate the complete machine learning pipeline rather than provide production-grade predictive performance.
+> This repository uses a small synthetic dataset (100 records) created for demonstration purposes. The generated risk labels are based on engineered payment behaviour features and are intended to illustrate the complete machine learning pipeline rather than provide production-grade predictive performance.
 
 ---
 
@@ -64,7 +64,7 @@ credit-risk-analytics/
 │   └── 04_quality_checks.sql
 │
 ├── src/
-│   ├── connection.py
+│   ├── connection.py 
 │   ├── data_loader.py
 │   ├── validation.py
 │   ├── feature_engineering.py
@@ -81,6 +81,10 @@ credit-risk-analytics/
 │
 └── README.md
 ```
+
+NOTE: The current demo version loads data from CSV files for portability.
+The module connection.py is included to demonstrate how the project would connect
+to a SQL Server database in a production environment using SQLAlchemy.
 
 ---
 
